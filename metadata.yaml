@@ -1,0 +1,37 @@
+_repo: The-Essence-of-Christianity-Translated-from-the-second-German-edition_47025
+contributor:
+  translator:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Mary Anne
+    - Lewes, Marian Evans
+    - Evans, Marian
+    - Cross, Marian Evans
+    - Lewes, M. E. (Marian Evans)
+    - Cross, Mary Ann
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+creator:
+  author:
+    agent_name: Feuerbach, Ludwig
+    birthdate: 1804
+    deathdate: 1872
+    gutenberg_agent_id: '44096'
+    url: http://www.gutenberg.org/2009/agents/44096
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Feuerbach
+description: ''
+gutenberg_issued: '2014-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Essence of Christianity
+
+  Translated from the second German edition'
+url: http://www.gutenberg.org/ebooks/47025
