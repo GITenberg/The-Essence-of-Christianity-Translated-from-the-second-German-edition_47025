@@ -1,4 +1,5 @@
 _repo: The-Essence-of-Christianity-Translated-from-the-second-German-edition_47025
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Eliot, George
@@ -14,6 +15,9 @@ contributor:
     gutenberg_agent_id: '90'
     url: http://www.gutenberg.org/2009/agents/90
     wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+covers:
+- cover_type: archival
+  image_path: 47025-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Feuerbach, Ludwig
@@ -23,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44096
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Feuerbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47025#The-Essence-of-Christianity-Translated-from-the-second-German-edition
 gutenberg_issued: '2014-10-02'
 gutenberg_type: Text
 identifiers:
